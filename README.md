@@ -29,17 +29,6 @@ If you'd like to contribute, please follow these steps:
     Create a new branch for your feature or bug fix.
     Make your changes and submit a pull request.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-vbnet
-
-
-Remember to replace placeholders like `https://github.com/your-username/java-rest-api.git` with your actual repository URL.
-
-Finally, ensure that your Swagger-generated code is properly integrated and functions as expected.
-
 
 Thank You !!!
 
