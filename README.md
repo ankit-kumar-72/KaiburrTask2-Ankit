@@ -1,13 +1,44 @@
 # KaiburrTask2-Ankit
-# Task 2 : Swagger Codegen
-## Implementation of Swagger with SpringBoot and MongoDB
+# Java REST API using Swagger
 
-* Added dependencies for swagger in existing Project of task 1.
-* Created a new file ```SwaggerConfig.java``` and annotted the class with ```@EnableSwagger2``` Annotation.
+This project implements a REST API for managing records using Java and Swagger-generated code.
 
-### Testing of Swagger on localhost
+## Getting Started
+mvn spring-boot:run
 
-* Tested swagger on localhost using url ```http://127.0.0.1:2017/swagger-ui.html#```
+    Access the API at http://localhost:8080.
+
+API Endpoints
+
+    GET /records: Get all records.
+    POST /records: Create a new record.
+    GET /records/{id}: Get a record by ID.
+    DELETE /records/{id}: Delete a record by ID.
+
+Dependencies
+
+    Java 8
+    Spring Boot
+    Swagger
+
+Contributing
+
+If you'd like to contribute, please follow these steps:
+
+    Fork the repository.
+    Create a new branch for your feature or bug fix.
+    Make your changes and submit a pull request.
+
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+vbnet
+
+
+Remember to replace placeholders like `https://github.com/your-username/java-rest-api.git` with your actual repository URL.
+
+Finally, ensure that your Swagger-generated code is properly integrated and functions as expected.
 
 
 Thank You !!!
